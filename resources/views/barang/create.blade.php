@@ -37,7 +37,7 @@
                         @enderror
                     </div>
                     <div class="form-group">
-                        <label>Nama Barang</label>
+                        <label>Satuan Barang</label>
                         <select name="satuan_id" id="satuan_id" class="form-select">
                             <option value="">-- Pilih Satuan --</option>
                             @foreach ($satuans as $satuan)

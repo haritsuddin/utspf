@@ -15,18 +15,18 @@ class BarangSeeder extends Seeder
     {
         DB::table('barangs')->insert([
             [
-                'kode_barang' => 'B01',
-                'nama_barang' => 'ban dunlop',
-                'harga_barang' => 100000,
-                'deskripsi_barang' => 'ban kuat dan tahan lama',
-                'satuan_id' => 4
+                'kode_barang' => '011',
+                'nama_barang' => 'beras sunco',
+                'harga_barang' => 56000,
+                'deskripsi_barang' => 'sunco 5 kg',
+                'satuan_id' => 1
             ],
             [
-                'kode_barang' => 'B02',
-                'nama_barang' => 'ban michelin',
-                'harga_barang' => 150000,
-                'deskripsi_barang' => 'ban kuat dan tahan lama',
-                'satuan_id' => 5
+                'kode_barang' => '012',
+                'nama_barang' => 'Beras BULOG',
+                'harga_barang' => 1000000,
+                'deskripsi_barang' => 'Beras bulog 100 kg',
+                'satuan_id' => 2
             ]
             ]);
 

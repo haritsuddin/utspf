@@ -19,8 +19,8 @@ class SatuanSeeder extends Seeder
             'nama_satuan' => 'SATUAN'
         ],
         [
-            'kode_satuan' => 'SET',
-            'nama_satuan' => '1 SET'
+            'kode_satuan' => 'KRG',
+            'nama_satuan' => 'KARUNG'
         ]
         ]);
     }

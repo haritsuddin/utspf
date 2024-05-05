@@ -10,12 +10,12 @@
                         PROFILE
                         </h4>
                         <hr>
-                        <img src="{{ Vite::asset('resources/images/profile.png') }}" alt="" style="width: 250px;">
+                        <img src="{{ Vite::asset('resources/images/profile.jpeg') }}" alt="" style="width: 250px;">
                     </div>
 
                 </div>
                 <div class="text-center">
-                    <h3>Febryan Dava Putra Atallah</h3>
+                    <h3>ASAWINKA HARITSUDDIN</h3>
                 </div>
                 <div class="container mt-2">
                     <div class="row">
@@ -32,7 +32,7 @@
 
                 </div>
                 <div class="container mt-3 text-center">
-                    <a style="text-decoration:none; color:white;" >Free Fire</a>
+                    <a style="text-decoration:none; color:white;" >clash royale</a>
                     <div class="progress mx-5 ">
                         <div class="progress-bar " role="progressbar" style="width: 85%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -60,7 +60,7 @@
                         </h3>
                     </div>
                     <div>
-                    <p>Halo! Saya Atallah dengan NIM 1204220087, seorang pemain game ngetroll yang berfokus pada permainan mobile. Saya telah mengabdikan waktu dan energi saya untuk menjadi ahli dalam tiga game populer: Free Fire, PUBG Mobile, dan Mobile Legends.</p>
+                    <p>Halo! Saya Haritsuddin dengan NIM 1204220092, seorang mahasiswa yang suka berolahraga dan sepertinya saya salah jurusan karena minat dan bakat ada pada olahraga jadi sebaiknya unesa olahraga ga sih</p>
                         </>
                     </div>
                 </div>
@@ -73,10 +73,10 @@
                         </h3>
                     </div>
                     <div>
-                        1.Mancing <br>
-                        2.Montage <br>
-                        3.Recal Recal <br>
-                        4.Kemenangan
+                        1.Sepak Bola <br>
+                        2.Billiard <br>
+                        3.Gym <br>
+                        4.Pargoy
                     </div>
                 </div>
             </div>
@@ -84,14 +84,14 @@
                 <div class="card-body ">
                     <div>
                         <h3>
-                            Fav Hero
+                            Fav Fod
                         </h3>
                     </div>
                     <div>
-                    1.ular <br>
-                        2.cacing <br>
-                        3.naga <br>
-                        4.neymar bogor
+                    1.Otak <br>
+                        2.Ayam <br>
+                        3.Ayam <br>
+                        4.Dan Ayam lagi
                     </div>
                 </div>
             </div>
